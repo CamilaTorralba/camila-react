@@ -29,7 +29,5 @@ Todo el código en este proyecto debe ser desarrollado usando camelcase.
 Además de los requisitos solicitados se agrego:
 
 - Formulario y página de confirmación al crear la orden
-- Página 404 en caso de que ingresen a una ruta errónea
-- Efecto de "loading" mientras se espera los productos con spinner
 - Imágenes de los productos
 
