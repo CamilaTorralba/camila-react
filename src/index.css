@@ -130,7 +130,7 @@ code {
 
 .titulo-producto {
   font-weight: bold;
-  color: #ffffff;
+  color: #e43a2e;
   margin: 0.2em;
   font-size: 1.3em;
 }
@@ -158,4 +158,18 @@ code {
 
 .titulos-items-agregados {
   font-size: 0.85em;
+}
+.btn-crear-orden {
+  transition: ease 300ms;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-color: #ffffff;
+  border: 2px solid #e43a2e;
+  color: #e43a2e;
+}
+.btn-crear-orden:hover {
+  box-shadow: 1px 1px 17px #e4e4e4;
+  background-color: #e43a2e;
+  border: 2px solid #e43a2e;
+  color: #ffffff;
 }
